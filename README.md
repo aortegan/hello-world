@@ -1,8 +1,9 @@
 hello-world
 ===========
 
-first repository
 
-Hi! I'm new on GitHub! modified line
+Hi! I'm new on Git Hub! modified line
+
+first repository
 
 modified
